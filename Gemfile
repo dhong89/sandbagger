@@ -30,6 +30,8 @@ gem 'annotate'
 gem 'webpacker'
 gem 'pry-rails'
 gem 'jquery-rails'
+gem 'devise'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
